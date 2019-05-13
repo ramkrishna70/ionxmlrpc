@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/ramkrishna70/ionxmlrpc/issues"
   },
-  "homepage": "https://github.com/ramkrishna70/ionxmlrpc#readme"
+  "homepage": "https://github.com/ramkrishna70/ionxmlrpc#readme",
+  "dependencies": {
+    "@angular/http": "^7.2.13",
+    "url": "^0.11.0",
+    "sax": "1.2.x",
+    "xmlbuilder": "8.2.x"
+  }
 }
