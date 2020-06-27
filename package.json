@@ -15,10 +15,15 @@
     "angular7",
     "ionic4"
   ],
-  "author": "Ram Krishna <ramkrishna@live.com>",
+  "author": "Ram Krishna <ramkrishna70@live.com>",
   "license": "UNLICENCED",
   "bugs": {
     "url": "https://github.com/ramkrishna70/ionxmlrpc/issues"
   },
-  "homepage": "https://github.com/ramkrishna70/ionxmlrpc#readme"
+  "homepage": "https://github.com/ramkrishna70/ionxmlrpc#readme",
+  "dependencies": {
+    "@angular/common": "^10.0.1", 
+    "xml2json": "^0.12.0",
+    "xmlbuilder": "^15.1.1"
+  }
 }
