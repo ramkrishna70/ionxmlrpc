@@ -1,6 +1,6 @@
 {
   "name": "ionxmlrpc",
-  "version": "1.0.1",
+  "version": "2.1.0",
   "description": "Ionic 4+ xmlrpc package to request api",
   "main": "index.ts",
   "scripts": {
