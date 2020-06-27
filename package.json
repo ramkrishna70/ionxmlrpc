@@ -1,10 +1,10 @@
 {
   "name": "ionxmlrpc",
   "version": "1.0.1",
-  "description": "Ionic 4 xmlrpc package to request api",
-  "main": "index.js",
+  "description": "Ionic 4+ xmlrpc package to request api",
+  "main": "index.ts",
   "scripts": {
-    "test": "test"
+    "test": "npm test"
   },
   "repository": {
     "type": "git",
@@ -15,16 +15,10 @@
     "angular7",
     "ionic4"
   ],
-  "author": "Ram Krishna <ram.krishna@invincix.com>",
+  "author": "Ram Krishna <ramkrishna@live.com>",
   "license": "UNLICENCED",
   "bugs": {
     "url": "https://github.com/ramkrishna70/ionxmlrpc/issues"
   },
-  "homepage": "https://github.com/ramkrishna70/ionxmlrpc#readme",
-  "dependencies": {
-    "@angular/http": "^7.2.13",
-    "url": "^0.11.0",
-    "sax": "1.2.x",
-    "xmlbuilder": "8.2.x"
-  }
+  "homepage": "https://github.com/ramkrishna70/ionxmlrpc#readme"
 }
